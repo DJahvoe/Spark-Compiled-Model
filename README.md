@@ -83,8 +83,8 @@ Melakukan konversi dari data yang telah di-load pada tabel menjadi Spark datafra
 
 ## _Evaluation_
 
-![Entropy Scorer](https://github.com/DJahvoe/ETL-menggunakan-KNIME/blob/master/screenshot/entropyscorer.jpg)<br>
-![Quality Table](https://github.com/DJahvoe/ETL-menggunakan-KNIME/blob/master/screenshot/qualitytable.jpg)<br>
+![Entropy Scorer](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/entropyscorer.jpg)<br>
+![Quality Table](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/qualitytable.jpg)<br>
 Model dievaluasi menggunakan **Entropy Scorer**
 
 ## _Deployment_
@@ -139,11 +139,11 @@ Melakukan konversi dari data yang telah di-load pada tabel menjadi Spark datafra
 
 ## _Evaluation_
 
-![Accuracy](https://github.com/DJahvoe/ETL-menggunakan-KNIME/blob/master/screenshot/accuracy.jpg)<br>
-![Scorer](https://github.com/DJahvoe/ETL-menggunakan-KNIME/blob/master/screenshot/scorer.jpg)<br>
+![Accuracy](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/accuracy.jpg)<br>
+![Scorer](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/scorer.jpg)<br>
 Model dievaluasi menggunakan **Entropy Scorer**
 
 ## _Deployment_
 
-![Deploy2](https://github.com/DJahvoe/ETL-menggunakan-KNIME/blob/master/screenshot/deploy2.jpg)<br>
+![Deploy2](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/deploy2.jpg)<br>
 Pada tahap deployment digunakan **Predictive Model Markup Language** yang nantinya dapat diterapkan pada sistem menggunakan **Spark Compiled Model Predictor**.
