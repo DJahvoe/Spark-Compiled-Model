@@ -139,9 +139,10 @@ Melakukan konversi dari data yang telah di-load pada tabel menjadi Spark datafra
 
 ## _Evaluation_
 
-![Accuracy](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/accuracy.jpg)<br>
 ![Scorer](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/scorer.jpg)<br>
-Model dievaluasi menggunakan **Entropy Scorer**
+![Accuracy](https://github.com/DJahvoe/Spark-Compiled-Model/blob/master/screenshot/accuracy.jpg)<br>
+
+Model dievaluasi menggunakan **Scorer**
 
 ## _Deployment_
 
